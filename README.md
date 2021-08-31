@@ -1,4 +1,4 @@
-# 06_CodeLab_3
+# 06a_CodeLab_3
 
 Grundlage des CodeLabs ist die Struktur App / Mitarbeiter 
 
